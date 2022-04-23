@@ -1,0 +1,6 @@
+--pre
+pillow
+pygetwindow
+briefcase
+detecto
+toga
